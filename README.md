@@ -2,8 +2,9 @@
 Data Science Mini Project
 
 The path for the dataset in the code is \\data-master\\credit-card\\creditcard.csv
-
 Change directory of the pd.read_csv function according to where you download dataset to in relation to where Miniprojekt1.py is placed. Line 23 in Miniprojekt1.py
+
+Dataset can be found [here](https://datahub.io/machine-learning/creditcard)
 
 Should be able to do a full run, but if hiccups happen, try running it cell by cell.
 
